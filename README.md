@@ -1,1 +1,1 @@
-# AI-Email-Summarizer-Prioritizer
+# Personal-Finance-Assistant
